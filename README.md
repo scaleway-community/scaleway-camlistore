@@ -1,9 +1,11 @@
+# Camlistore image on Scaleway
+
 [![Travis](https://img.shields.io/travis/scaleway-community/scaleway-camlistore.svg)](https://travis-ci.org/scaleway-community/scaleway-camlistore)
 [![Scaleway ImageHub](https://img.shields.io/badge/ImageHub-view-ff69b4.svg)](https://www.scaleway.com/imagehub/camlistore/)
 [![Run on Scaleway](https://img.shields.io/badge/Scaleway-run-69b4ff.svg)](https://cloud.scaleway.com/#/servers/new?image=aeecd264-989b-4265-8e62-996f3f9056f6)
 
 
-<a href="https://camlistore.org"><img src="http://camlistore.org/static/camli-header.jpg" width="400" alt="Camlistore"/>
+<a href="https://camlistore.org"><img src="http://camlistore.org/static/camli-header.jpg" width="400" alt="Camlistore"/></a>
 
 Launch your Camlistore app on Scaleway servers in minutes.
 
